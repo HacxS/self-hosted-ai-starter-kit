@@ -1,0 +1,11 @@
+# searxng/settings.yml
+use_default_settings: true
+
+server:
+  secret_key: "ny7K24bnThTCf33QLKFHbpGfqMwr7"
+  image_proxy: true
+
+search:
+  formats:
+    - html
+    - json
